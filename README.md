@@ -26,3 +26,6 @@ RESET anch’esso unico.
 - Le uscite `Z0`, `Z1`, `Z2`, `Z3` sono inizialmente 0. I valori rimangono inalterati, tranne il canale su cui viene mandato il messaggio letto in memoria, visibile solo quando `DONE` è 1.
 - Quando `DONE` è 0, tutti i canali devono essere a zero. Quando `DONE` è 1, il canale associato al messaggio cambierà il suo valore, mentre gli altri canali mostreranno l'ultimo valore trasmesso.
 - Il tempo massimo per produrre il risultato (da `START`=0 a `DONE`=1) deve essere inferiore a 20 cicli di clock.
+
+## Votazione:
+30 / 30
