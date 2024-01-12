@@ -1,7 +1,7 @@
 # reti-logiche-22-23
 Prova finale di reti logiche a.a. 2022/2023 del Politecnico di Milano
 
-##Descrizione generale
+## Descrizione generale
 La specifica della “ Prova Finale (Progetto di Reti Logiche) ” per l’Anno Accademico
 2022/2023 chiede di implementare un modulo HW (descritto in VHDL) che si interfacci con
 una memoria e che rispetti le indicazioni riportate nella seguente specifica.
