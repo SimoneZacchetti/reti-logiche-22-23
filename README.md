@@ -27,5 +27,4 @@ RESET anch’esso unico.
 - Quando `DONE` è 0, tutti i canali devono essere a zero. Quando `DONE` è 1, il canale associato al messaggio cambierà il suo valore, mentre gli altri canali mostreranno l'ultimo valore trasmesso.
 - Il tempo massimo per produrre il risultato (da `START`=0 a `DONE`=1) deve essere inferiore a 20 cicli di clock.
 
-## Votazione:
-30 / 30
+## Votazione: 30 / 30
